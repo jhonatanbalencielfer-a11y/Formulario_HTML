@@ -1,0 +1,176 @@
+#nome {
+    background-color:blue;
+}
+
+#email{
+    background-color:red;
+}
+
+#idade{
+    background-color:rgb(0, 0, 0);
+}
+
+.label_form{ 
+    background-color:green;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+{-uv-styles-color-surface
+#202124
+: #202124;
+    --uv-styles-color-footer: #18191a;
+    --uv-styles-color-outline: #3c4043;
+    --uv-styles-color-scrim: #0009;
+    --uv-styles-color-on-scrim: #fff;
+    --uv-styles-color-icon-on-scrim: #fff;
+    --uv-styles-color-primary: #8ab4f8;
+    --uv-styles-color-on-primary: #202124;
+    --uv-styles-color-secondary: #394457;
+    --uv-styles-color-icon-on-secondary: #9aa0a6;
+    --uv-styles-color-on-secondary: #d2e3fc;
+    --uv-styles-color-tertiary: #303134;
+    --uv-styles-color-on-tertiary: #bdc1c6;
+    --uv-styles-color-icon-on-tertiary: #bdc1c6;
+    --uv-styles-color-text-primary: #8ab4f8;
+    --uv-styles-color-text-emphasis: #e8eaed;
+    --uv-styles-color-icon-emphasis: #e8eaed;
+    --uv-styles-color-text-de-emphasis: #9aa0a6;
+    --uv-styles-color-text-default: #bdc1c6;
+    --uv-styles-color-icon-default: #bdc1c6;
+    --uv-styles-color-review-stars: #fdd663;
+    --uv-styles-color-review-stars-empty: #80868b;
+    --uv-styles-color-letterbox: #000;
+    --uv-styles-color-blue-icon: #8ab4f8;
+    --uv-styles-color-secondary-hover: #3a3f50;
+}
+body {
+    --amnPwe: #9e9e9e;
+    --ZXiaGf: #202124;
+    --EoKObe: #fff;
+    --cIehld: var(--xhUGwc);
+    --ONhrGd: #444746;
+    --gVUKcd: rgba
+#00000099
+(0, 0, 0, 0.6);
+    --jwFC2e: #213da0;
+    --yTtsEf: #c4eed0;
+}
+body {
+    --vZe0jb: #515a7b;
+    --nwXobb: var(--vZe0jb);
+    --VuZXBd: #eef0ff;
+    --uLz37c: #c3c6d6;
+    --jINu6c: #eef0ff;
+    --TyVYld: #8ab4f8;
+    --ZEpPmd: #515a7b;
+    --QWaaaf: var(--ZEpPmd);
+    --DEeStf: #242832;
+    --TSWZIb: #2c303d;
+    --BRLwE: #3a3f50;
+    --gS5jXb: #444746;
+    --Aqn7xd: var(--gS5jXb);
+    --EpFNW: #1f1f1f;
+    --Xqboce: #fff;
+    --IXoxUe: #9e9e9e;
+    --bbQxAb: #bfbfbf;
+    --YLNNHc: #e8e8e8;
+    --TMYS9: #a8c7fa;
+    --JKqx2: #99c3ff;
+    --rrJJUc: #a8c7fa;
+    --mXZkqc: #444746;
+    --JclFj: #444746;
+    --Nsm0ce: #a8c7fa;
+    --vdwxpe: #0b57d0;
+    --ywz01c: #fdd663;
+    --XKMDxc: #2c2e35;
+    --aYn2S: #363840;
+    --Lm570b: #42444d;
+}
+body {
+    --COEmY: var(--YLNNHc);
+    --xhUGwc: #22242a;
+}
+body {
+    --nkmQOe: Arial, sans-serif;
+    --a9X0Jc: 24px;
+    --z3BFIe: 16px;
+    --XWliwc: 400;
+    --LI4Bo: Arial, sans-serif;
+    --XWv1if: 22px;
+    --Mhs7de: 14px;
+    --ofwUBc: 400;
+    --YfiKf: Arial, sans-serif;
+    --punZlc: 16px;
+    --gOs6Bf: 12px;
+    --MzKBpd: 400;
+    --IT7y3c: Google Sans, Arial, sans-serif;
+    --hPDMFf: 36px;
+    --Ia70Xd: 28px;
+    --Vyi8yc: 400;
+    --Aoh9Xe: Google Sans, Arial, sans-serif;
+    --qYGXw: 28px;
+    --qpdFp: 22px;
+    --JT4IPc: 400;
+    --rTk0E: Google Sans, Arial, sans-serif;
+    --Ok3irf: 24px;
+    --uBdgTe: 18px;
+    --Zf9Xnd: 400;
+    --qR8X0: Google Sans, Arial, sans-serif;
+    --CbdmE: 20px;
+    --hbmnje: 14px;
+    --Oycjt: 500;
+    --qBwyqb: Arial, sans-serif;
+    --nUOqEc: 16px;
+    --cMTvjf: 12px;
+    --CUS15e: 500;
+    --Eou8Yc: Google Sans, Arial, sans-serif;
+    --qWZYEc: 26px;
+    --GiToJf: 20px;
+    --p2Lqxe: 400;
+    --ztTqPe: Google Sans, Arial, sans-serif;
+    --C74x2e: 24px;
+    --gyu5L: 16px;
+    --Yoa6qd: 400;
+    --lI1Trc: Arial, sans-serif;
+    --HIyEKc: 18px;
+    --ZNg88: 14px;
+    --qjVU3d: 400;
+}
+
+body {
+    --pEa0Bc: #bfbfbf;
+    --Pa8Wlb: #a8c7fa;
+    --YaIeMb: #28292a;
+    --Yi4Nb: #444746;
+    --ngPXTb: var(--rrJJUc);
+    --hwEqod: var(--jINu6c);
+    --kloG3: #444746;
+    --lv6yU: #a8c7fa;
+    --Wmwad: #b1c5ff;
+    --vWq1if: var(--jINu6c);
+    --Ijc2tf: #2c303d;
+    --VeLyLc: #eef0ff;
+    --fuvksc: #a8c7fa;
+    --gJjJk: #b1c5ff;
+    --LMFHUd: var(--jINu6c);
+    --Zia6nf: var(--BRLwE);
+    --y01ou: #eef0ff;
+    --p9J9c: #a8c7fa;
+    --MoaHse: #b1c5ff;
+    --CRMNZd: var(--jINu6c);
+    --izGsqb: #a8c7fa;
+    --todMNc: #202124;
+    --NoaQW: #eef0ff;
+    --qdHZF: rgba(0, 0, 0, .6);
+    --V9ysqf: var(--EoKObe);
+    --PBxOKe: #1f1f1f;
+    --MV2sG: #2c2e35;
+    --bcxd3b: var(--YLNNHc);
+    --D9aNi: rgba(232, 232, 232, 0.08);
+}
